@@ -2,9 +2,9 @@
   "basics": {
     "name": "Michael Nelson, PhD",
     "email": "dr.michael.a.nelson@gmail.com",
-    "phone": "(405) 924-3454",
+    "phone": "",
     "website": "https://mnelson91.github.io",
-    "summary": "Full stack software engineer, researcher, and entrepreneur. Currently employed at CoreLogic/CoTality.",
+    "summary": "Currently employed at cotality. Full stack software engineer, researcher, and entrepreneur.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -16,46 +16,46 @@
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=K84R5WoAAAAJ"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/my-orcid?orcid=0000-0002-2350-8160"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "mnelson91",
+        "url": "https://github.com/mnelson91"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "University of Oklahoma",
+      "area": "Ph.D in Computer Science",
       "studyType": "",
       "startDate": "",
-      "endDate": "2018",
+      "endDate": "2019",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "University of Oklahoma",
+      "area": "M.S. in Computer Science",
       "studyType": "",
       "startDate": "",
-      "endDate": "2014",
+      "endDate": "2017",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "University of Oklahoma",
+      "area": "B.S. in Computer Science",
       "studyType": "",
       "startDate": "",
-      "endDate": "2012",
+      "endDate": "2015",
       "gpa": null,
       "courses": []
     }
@@ -68,73 +68,64 @@
     {
       "name": "On compressing massive streaming graphs with Quadtrees",
       "publisher": "2015 IEEE International Conference on Big Data (Big Data)",
-      "releaseDate": "2015",
+      "releaseDate": "2015-01-01",
       "website": "",
       "summary": "This paper discusses compressing massive streaming graphs using Quadtrees."
     },
     {
       "name": "Exploiting topological structures for graph compression based on quadtrees",
       "publisher": "2016 Second International Conference on Research in Computational Intelligence and Communication Networks (ICRCICN)",
-      "releaseDate": "2016",
+      "releaseDate": "2016-01-01",
       "website": "",
       "summary": "This paper explores graph compression techniques leveraging topological structures and Quadtrees."
     },
     {
       "name": "Queryable compression on streaming social networks",
       "publisher": "2017 IEEE International Conference on Big Data (Big Data)",
-      "releaseDate": "2017",
+      "releaseDate": "2017-01-01",
       "website": "",
       "summary": "This paper introduces queryable compression techniques for streaming social networks."
     },
     {
       "name": "Queryable Compression on Time-Evolving Social Networks with Streaming",
       "publisher": "2018 IEEE International Conference on Big Data (Big Data)",
-      "releaseDate": "2018",
+      "releaseDate": "2018-01-01",
       "website": "",
       "summary": "This paper presents queryable compression methods for time-evolving social networks with streaming."
     },
     {
-      "name": "Billion-Scale Matrix Compression and Multiplication with Implications in Data Mining",
-      "publisher": "2018 IEEE International Conference on Information Reuse and Integration (IRI)",
-      "releaseDate": "2019",
-      "website": "",
-      "summary": "This paper discusses billion-scale matrix compression and its applications in data mining."
-    },
-    {
       "name": "Algorithms on Compressed Time-Evolving Graphs",
       "publisher": "2019 IEEE International Conference on Big Data (Big Data)",
-      "releaseDate": "2019",
+      "releaseDate": "2019-01-01",
       "website": "",
       "summary": "This paper explores algorithms for compressed time-evolving graphs."
     },
     {
-      "name": "Queryable Compression on Time-evolving Web and Social Networks with Streaming",
-      "publisher": "ACM Transactions on the Web (ACM Trans. Web)",
-      "releaseDate": "2021-12",
-      "website": "https://doi.org/10.1145/3495012",
-      "summary": "This paper proposes a compressed data structure for time-evolving web and social networks, enabling efficient queries and streaming operations."
+      "name": "Billion-Scale Matrix Compression and Multiplication with Implications in Data Mining",
+      "publisher": "2018 IEEE International Conference on Information Reuse and Integration (IRI)",
+      "releaseDate": "2019-01-01",
+      "website": "",
+      "summary": "This paper discusses billion-scale matrix compression and its applications in data mining."
     },
     {
       "name": "On Compressing Time-Evolving Networks",
       "publisher": "ALLDATA 2021, The Seventh International Conference on Big Data, Small Data, Linked Data and Open Data",
-      "releaseDate": "2021",
+      "releaseDate": "2021-01-01",
       "website": "",
       "summary": "This paper investigates compression techniques for time-evolving networks."
-    }
-  ],
-  "portfolio": [
+    },
     {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "name": "Queryable Compression on Time-evolving Web and Social Networks with Streaming",
+      "publisher": "ACM Transactions on the Web (ACM Trans. Web)",
+      "releaseDate": "2021-12-01",
+      "website": "",
+      "summary": "This paper proposes a compressed data structure for time-evolving web and social networks, enabling efficient queries and streaming operations."
     }
   ],
   "projects": [
     {
       "name": "Project item number 1",
-      "category": "project",
+      "category": "projects",
       "date": "",
       "url": "",
       "description": "Short description of project item number 1<br/><img src='/images/500x300.png'>"
