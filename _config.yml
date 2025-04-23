@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Michael Nelson, PhD"
-  pronouns         : "he/him"  
+  pronouns         : "he/him/Doc"  
   bio              : "Full stack software engineer, researcher, and entrepreneur."
   location         : "Boulder, CO"
   employer         : "University of Oklahoma"
@@ -216,6 +216,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
+  projects:
+    output: true
+    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -251,6 +254,15 @@ defaults:
   - scope:
       path: ""
       type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _projects
+  - scope:
+      path: ""
+      type: projects
     values:
       layout: single
       author_profile: true

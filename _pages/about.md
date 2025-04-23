@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome to my personal website! My name is Michael Nelson and I am a life-long computer scientist with a PhD from the University of Oklahoma. My doctoral research was focused on time-evolving graph compression, but I am curious across all fields of computer science.
 
-I am currently working at CoreLogic/Cotality, as a **Lead Senior Software Engineer** on the greenfield Labs team. We specialize in building large-scale solutions from scratch using cutting-edge technologies and methodologies. 
+I am currently working at CoreLogic/CoTality, as a **Lead Senior Software Engineer** on the greenfield Labs team. We specialize in building large-scale solutions from scratch using cutting-edge technologies and methodologies. 
 
 My current interests span across many fields, but include:
 
