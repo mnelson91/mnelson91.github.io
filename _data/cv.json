@@ -124,11 +124,25 @@
   ],
   "projects": [
     {
-      "name": "Project item number 1",
+      "name": "Coding Interview Patterns",
       "category": "projects",
       "date": "",
       "url": "",
-      "description": "Short description of project item number 1<br/><img src='/images/500x300.png'>"
+      "description": "My implementations and critiques for the problems in the book Coding Interview Patterns by Alex Xu.<br/><img src='/images/coding-interview-patterns.jpg' width='300' height='200'>"
+    },
+    {
+      "name": "System Design Interview Volume 2",
+      "category": "projects",
+      "date": "",
+      "url": "",
+      "description": "My implementations and critiques for the problems in the book System Design Interview Volume 2 by Alex Xu.<br/><img src='/images/system-design-interview-2.jpg' width='300' height='200'>"
+    },
+    {
+      "name": "System Design Interview Volume 1",
+      "category": "projects",
+      "date": "",
+      "url": "",
+      "description": "My implementations and critiques for the problems in the book System Design Interview Volume 1 by Alex Xu.<br/><img src='/images/system-design-interview-1.jpg' width='300' height='200'>"
     }
   ]
 }
