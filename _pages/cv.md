@@ -19,7 +19,6 @@ Work experience
 ======
 * 2020-Present: Senior Software Engineer  
   * CoreLogic/cotality, Oklahoma City, Remote
-  * Responsibilities:  
     - Led multiple teams across both modern and legacy technology stacks.  
     - Delivered multiple enterprise-scale platforms—including payments, appraisals, and analytics—from user-centered design to production, resulting in multi-million-dollar annual revenue.  
     - Coordinated, trained, and mentored full-time employees and contractors through paired programming, paired code reviews, book clubs, and hackathons.  
@@ -29,8 +28,7 @@ Work experience
 
 * 2012-2020: Senior Software Engineer  
   * University of Oklahoma (OU), Norman  
-  * Responsibilities: 
-    - Managed multiple contracts, teams, and projects throughout the university, including Oklahoms Department of Transportation, the OU Data Science Initiative, and the OU Supercomputing Center for Education and Research.
+    - Managed multiple contracts, teams, and projects throughout the university, including the Oklahoma Department of Transportation, the OU Data Science Initiative, and the OU Supercomputing Center for Education and Research.
     - Developed and maintained a large-scale, distributed system for processing and analyzing time-evolving graphs.  
     - Collaborated with researchers and faculty to implement algorithms and techniques for graph compression and analysis.  
     - Published multiple papers in peer-reviewed conferences and journals, contributing to the field of computer science.  
