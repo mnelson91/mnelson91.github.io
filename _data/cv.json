@@ -124,6 +124,13 @@
   ],
   "projects": [
     {
+      "name": "Discord AI Bot",
+      "category": "projects",
+      "date": "",
+      "url": "",
+      "description": "Currently collaborating on a discord AI bot with some rich features only possible with the latest AI tools.<br/><img src='/images/discord-ai-bot.png' width='300' height='200'>"
+    },
+    {
       "name": "Coding Interview Patterns",
       "category": "projects",
       "date": "",
